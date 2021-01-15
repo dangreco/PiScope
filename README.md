@@ -8,7 +8,7 @@
 ## Required Materials
 ---
 
-- 1x Raspberry Pi
+- 1x Raspberry Pi 3B
 - 1x Arduino Mega
 - 1x Raspberry Pi Camera
 - 1x Extension Cable for Raspberry Pi Camera
